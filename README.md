@@ -22,6 +22,9 @@ $ npm install
 $ npm start
 ```
 
+### Demo (Click to view)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/reuNni7llR4/0.jpg)](http://www.youtube.com/watch?v=reuNni7llR4 "Hue and Cry!")
+
 ##License
 UNLICENSE
 This is free and unencumbered software released into the public domain.
