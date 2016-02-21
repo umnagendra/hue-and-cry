@@ -1,5 +1,6 @@
 #Hue and Cry!
 A hack that uses Philips Hue lighting system as real-time performance indicator.
+
 [![Build Status](https://travis-ci.org/umnagendra/hue-and-cry.svg?branch=master)](https://travis-ci.org/umnagendra/hue-and-cry)
 
 ##Built With
